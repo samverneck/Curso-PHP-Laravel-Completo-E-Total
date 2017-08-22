@@ -42,7 +42,7 @@ Mantenedor e criador dos seguintes grupos:
 
 ## Ementa
 
-##**CUIDADO!!! Alterações podem ser feitas sem aviso prévio, por isso SEMPRE LEIA AQUI!!!!**
+## CUIDADO!!! Alterações podem ser feitas sem aviso prévio, por isso SEMPRE LEIA AQUI!!!!
 
 - [Slides](https://docs.google.com/presentation/d/1WLRiUNffphIWlB4gNgEbshjEViYKIUbmk6uPeZExKdQ/edit?usp=sharing)
 - [Módulo 1 - Aula 1 - Introdução ao Curso](https://www.youtube.com/watch?v=PXdavVkiAV4&feature=youtu.be)
